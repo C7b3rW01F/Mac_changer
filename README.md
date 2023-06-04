@@ -8,6 +8,7 @@ cd /Mac_changer
 
 pip install -r requirements.txt
 
-chmod +x mac_changer.py
+sudo chmod +x mac_changer.py 
+(enter password)
 
 ./mac_changer.py
