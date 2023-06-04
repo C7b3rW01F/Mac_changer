@@ -7,7 +7,9 @@ Commands --
 cd /Mac_changer
 
 Try this command first to install the required Python packages - "pip install -r requirements.txt"
+
 If the above command does not work then try this - "pip3 install -r requirements.txt"
+
 It that does not work even, try this - "python3 -m pip install -r requirements.txt"
 
 
