@@ -8,4 +8,6 @@ cd /Mac_changer
 
 pip install -r requirements.txt
 
+chmod +x mac_changer.py
+
 ./mac_changer.py
