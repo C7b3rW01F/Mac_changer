@@ -4,7 +4,7 @@ A great Command line tool programmed in Python3 for changing the Media Access Co
 
 Commands --
 
-cd Mac_changer
+cd /Mac_changer
 
 pip install -r requirements.txt
 
