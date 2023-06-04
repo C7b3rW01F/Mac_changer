@@ -14,6 +14,6 @@ It that does not work even, try this - "python3 -m pip install -r requirements.t
 
 
 sudo chmod +x mac_changer.py 
-(enter password)
+
 
 python3 mac_changer.py
