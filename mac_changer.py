@@ -3,7 +3,11 @@ import colorama
 from colorama import Fore, Back, Style
 import time
 import netifaces
+import os, sys
 colorama.init(autoreset = True)
+
+if not os.getuid() == 0:
+        sys.exit('This script must be run as root.')
 
 def macchanger():
     
